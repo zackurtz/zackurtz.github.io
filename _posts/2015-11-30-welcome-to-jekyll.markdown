@@ -5,7 +5,7 @@ date:   2015-11-30 19:48:07
 categories: project
 ---
 
-Over here at [github][github_link]
+Over here on [github][github_link]
 
 
 
