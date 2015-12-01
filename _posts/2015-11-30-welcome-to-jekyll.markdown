@@ -2,7 +2,7 @@
 layout: post
 title:  "State-Space Search in Clojure"
 date:   2015-11-30 19:48:07
-categories: jekyll update
+categories: project
 ---
 
 Over here at [github][github_link]
